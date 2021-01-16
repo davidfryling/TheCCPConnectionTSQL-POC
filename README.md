@@ -1,2 +1,2 @@
 # CCPConnection_dB
- 
+This is a proof of concept database and set of stored procedures for The CCP Connection Web App. I first created an Entity Relationship Diagram, normalizing the database so that each table represented only one object of the final app. I then used T-SQL to build the database, tables, key constraints, and many stored procedures to join data into new views that would need to be rendered in the final web app. 
